@@ -4,7 +4,7 @@
     <h3 align="center">Eco-Mind</h3>
   </a>
 </p>
-
+<br>
 <p align="center">
   Progettazione e sviluppo di soluzioni business, mobile e cloud native, 
   
@@ -12,7 +12,7 @@
 <p align="center">
   e soluzioni di realtà aumentata e virtuale.
 </p>
-
+<br>
 <p align="center">
   <a href="https://eco-mind.eu/management-tools/"><strong>Management Tools</strong></a> ·
   <a href="https://eco-mind.eu/innovation-factory/"><strong>Innovation Factory</strong></a> ·
