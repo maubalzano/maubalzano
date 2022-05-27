@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center" width="400">
   Progettazione e sviluppo di soluzioni business, mobile e cloud native, e soluzioni di realtà aumentata e virtuale.
 </p>
 
