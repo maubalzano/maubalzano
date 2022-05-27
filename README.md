@@ -1,4 +1,4 @@
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`<p align="center">
+<p align="center">
   <a href="https://eco-mind.eu/">
     <img src="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo.svg" height="96" style="background-color:white">
     <h3 align="center">Eco-Mind</h3>
