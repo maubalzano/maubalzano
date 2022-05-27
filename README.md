@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Rendiamo il lavoro più semplice.
+  Progettazione e sviluppo di soluzioni business, mobile e cloud native, e soluzioni di realtà aumentata e virtuale.
 </p>
 
 <p align="center">
