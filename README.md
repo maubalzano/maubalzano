@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://eco-mind.eu/">
-    <img src="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo.svg" height="96" style="background-color:white">
+    <img src="https://yt3.ggpht.com/ytc/AKedOLRtzqRpr_F4jVoAkyKJH7a_GBdC0JsVFrxB-rWFnA=s900-c-k-c0x00ffffff-no-rj" height="96" style="background-color:white">
     <h3 align="center">Eco-Mind</h3>
   </a>
 </p>
