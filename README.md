@@ -10,10 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://vercel.com/docs"><strong>Documentation</strong></a> ·
-  <a href="https://vercel.com/changelog"><strong>Changelog</strong></a> ·
-  <a href="https://vercel.com/templates"><strong>Templates</strong></a> ·
-  <a href="https://vercel.com/cli"><strong>CLI</strong></a>
+  <a href="https://eco-mind.eu/management-tools/"><strong>Management Tools</strong></a> ·
+  <a href="https://eco-mind.eu/innovation-factory/"><strong>Innovation Factory</strong></a> ·
+  <a href="https://eco-mind.eu/blog/"><strong>Blog</strong></a> ·
 </p>
 <br/>
 
