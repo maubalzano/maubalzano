@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://eco-mind.eu/">
-    <img src="https://avatars.githubusercontent.com/u/5512249?s=200&v=4" height="96" style="background-color:#ffffff">
+    <img src="https://media-exp1.licdn.com/dms/image/C560BAQFyLAK96HB14w/company-logo_200_200/0/1519877882816?e=1661990400&v=beta&t=m0ZnA6NFl7gl5BPo4s-EH4IC9ImoK4X6QZGz42-_0a8" height="96" style="background-color:#ffffff">
     <h3 align="center">Eco-Mind</h3>
   </a>
 </p>
