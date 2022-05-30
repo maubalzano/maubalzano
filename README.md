@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://eco-mind.eu/">
     <img src="https://yt3.ggpht.com/ytc/AKedOLRtzqRpr_F4jVoAkyKJH7a_GBdC0JsVFrxB-rWFnA=s900-c-k-c0x00ffffff-no-rj" height="160" style="border-radius:10px">
+    <img src="https://drive.google.com/drive/u/0/folders/1PwhTRtWzfFmH9-BRM-AHj_5qG9g6ZDVj" height="100">
     <h3 align="center">Eco-Mind</h3>
   </a>
 </p>
