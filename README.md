@@ -30,9 +30,9 @@
 
 Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative per evolvere verso il modello “Anywhere Operations”. Incrociamo le loro esigenze con la ricerca e lo studio delle tecnologie più recenti, per innovare e renderle competitive sul mercato. Con le nostre applicazioni multipiattaforma abilitiamo processi automatizzati che facilitano la comunicazione, sia interna che esterna, e la collaborazione remota tra operatori sul campo ed esperti a distanza. Perché crediamo che solo favorendo l’interazione tra persone e tra persone e macchine lo sviluppo può diventare progresso.
 <hr>
+  <img src="https://github.com/maubalzano/maubalzano/blob/main/ecomind-leaf.svg">
 <br>
 </p>
-
 <div align="center">
   <h2 border="0"><strong>I nostri prodotti</strong></h2>
   <table border="0">
