@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.instagram.com/ecomindsoftware/"><img src="https://github.com/maubalzano/maubalzano/blob/main/linkedin.svg" width="30"></a>
+  <a href="https://www.instagram.com/ecomindsoftware/"><img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width="30"></a>
   <a href="https://www.instagram.com/ecomindsoftware/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" width="30"></a>
 </p>
 <br>
