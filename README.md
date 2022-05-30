@@ -34,17 +34,17 @@ Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative
 </p>
 
 <div align="center">
-  <h2>I nostri prodotti</h2>
+  <h2 border="0"><strong>I nostri prodotti</strong></h2>
   <table border="0">
  <tr>
-    <td align="top" border="0">
+    <td align="center" border="0">
       <br>
     <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo_Eye4Task.png" width="200">
     <p width="300" align="center">Eye4Task è il software di realtà aumentata per il supporto a distanza che permette a chi opera sul campo, anche in contesti critici, di svolgere attività complesse in sicurezza, guidati da esperti in remoto, in qualsiasi parte del mondo essi si trovino.</p>
    <br>
    </td>
-   <br>
     <td align="center" border="0">
+      <br>
        <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo GoSign.png" width="200">
       <p width="300" align="center">GoSign è una soluzione per la firma digitale usata da oltre un milione di persone in tutto il mondo per verificare e approvare documenti.
 Puoi creare processi di firma fluidi e sicuri tramite firma semplice, remota, grafometrica o con token/ smart card.</p>
