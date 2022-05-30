@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color:green">
   <a href="https://eco-mind.eu/">
     <img src="https://yt3.ggpht.com/ytc/AKedOLRtzqRpr_F4jVoAkyKJH7a_GBdC0JsVFrxB-rWFnA=s900-c-k-c0x00ffffff-no-rj" height="160" style="border-radius:10px">
     <img src="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo-light.svg" height="100">
