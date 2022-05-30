@@ -32,9 +32,8 @@
 Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative per evolvere verso il modello “Anywhere Operations”. Incrociamo le loro esigenze con la ricerca e lo studio delle tecnologie più recenti, per innovare e renderle competitive sul mercato. Con le nostre applicazioni multipiattaforma abilitiamo processi automatizzati che facilitano la comunicazione, sia interna che esterna, e la collaborazione remota tra operatori sul campo ed esperti a distanza. Perché crediamo che solo favorendo l’interazione tra persone e tra persone e macchine lo sviluppo può diventare progresso.
 <hr>
 </p>
-<hr>
 <div align="center">
-  <h4>I nostri prodotti</h4>
+  <h2>I nostri prodotti</h2>
 </div>
 <!--
 **maubalzano/maubalzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
