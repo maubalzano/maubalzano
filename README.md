@@ -94,5 +94,5 @@ Puoi creare processi di firma fluidi e sicuri tramite firma semplice, remota, gr
 <p>
 </div>
 <br>
-![Maubalzano's GitHub stats](https://github-readme-stats.vercel.app/api?username=maubalzano&show_icons=true&theme=radical)
+[![Maubalzano's GitHub stats](https://github-readme-stats.vercel.app/api?username=maubalzano)](https://github.com/anuraghazra/github-readme-stats)
 
