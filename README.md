@@ -33,7 +33,6 @@ Oggi Eco-Mind opera sul mercato attraverso due Business Unit: Smart Management T
 </p>
 <rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="494" fill="#151515" stroke-opacity="1"/>
 
-[![Eco-Mind Software's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eco-Mind Software&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **maubalzano/maubalzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
