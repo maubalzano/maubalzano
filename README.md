@@ -30,6 +30,7 @@
 
 Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative per evolvere verso il modello “Anywhere Operations”. Incrociamo le loro esigenze con la ricerca e lo studio delle tecnologie più recenti, per innovare e renderle competitive sul mercato. Con le nostre applicazioni multipiattaforma abilitiamo processi automatizzati che facilitano la comunicazione, sia interna che esterna, e la collaborazione remota tra operatori sul campo ed esperti a distanza. Perché crediamo che solo favorendo l’interazione tra persone e tra persone e macchine lo sviluppo può diventare progresso.
 <hr>
+<br>
 </p>
 
 <div align="center">
@@ -65,22 +66,30 @@ Puoi creare processi di firma fluidi e sicuri tramite firma semplice, remota, gr
  </tr>
 </table>
 </div>
+<hr>
 <br>
-<h3>I nostri superpoteri</h3>
+<h2 align="center">I nostri superpoteri</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/angular.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /
-  <img src="https://img.stackshare.io/service/995/K85ZWV2F.png" width="40"/>&nbsp;
-  <img src="https://img.stackshare.io/service/1025/logo-mysql-170x170.png" width="40"/>&nbsp;  
-  <img src="https://img.stackshare.io/service/1030/leaf-360x360.png" width="40">&nbsp;
-  <img src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg" width="40">&nbsp;
-  <img src="https://img.stackshare.io/service/1051/fab.os.logo.apache.200.15011_400x400.jpg" width="40">&nbsp;
-  <img src="https://img.stackshare.io/service/116/cZLxNFZS.jpg" width="40">&nbsp;
-  <img src="https://img.stackshare.io/service/1022/jqueryui_avatar_96.png" width="40">&nbsp;
-  <img src="https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png" width="40">&nbsp;
-  <img src="https://img.stackshare.io/service/1009/tuHsaI2U.png" width="40">&nbsp;
-  <img src="https://img.stackshare.io/service/1187/tomcat.png" width="40">&nbsp;
-  <img src="https://img.stackshare.io/service/1056/J5gFiHbG.png" width="40">&nbsp; 
-  <img src="https://img.stackshare.io/service/1008/xcode.png" width="40">&nbsp;
-  <img src="https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg" width="40">&nbsp;
+  <img src="https://img.shields.io/badge/angular%20-%2343853D.svg?&style=for-the-badge&logo=angular&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/typescript%20-%2343853D.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/mysql%20-%2343853D.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/mongodb%20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/jquery%20-%2343853D.svg?&style=for-the-badge&logo=jquery&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/apache%20-%2343853D.svg?&style=for-the-badge&logo=apache&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/android%20-%2343853D.svg?&style=for-the-badge&logo=android&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/firebase%20-%2343853D.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/swift%20-%2343853D.svg?&style=for-the-badge&logo=swift&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/xcode%20-%2343853D.svg?&style=for-the-badge&logo=xcode&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/kotlin%20-%2343853D.svg?&style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/docker%20-%2343853D.svg?&style=for-the-badge&logo=docker&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/jenkins%20-%2343853D.svg?&style=for-the-badge&logo=jenkins&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/kubernetes%20-%2343853D.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/awslambda%20-%2343853D.svg?&style=for-the-badge&logo=awslambda&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/npm%20-%2343853D.svg?&style=for-the-badge&logo=npm&logoColor=white" height="30"/>
   
 <p>
+<br>
+
