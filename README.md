@@ -65,17 +65,12 @@ Puoi creare processi di firma fluidi e sicuri tramite firma semplice, remota, gr
  </tr>
 </table>
 </div>
-<!--
-**maubalzano/maubalzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<h3>I nostri superpoteri</h3>
+<p align="center">
+  <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="40">
+  <img src="https://img.icons8.com/color/344/mysql-logo.png" width="40">
+  <img src="https://img.stackshare.io/service/1030/leaf-360x360.png" width="40">
+  <img src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg" width="40">
+  <img src="https://img.stackshare.io/service/1051/fab.os.logo.apache.200.15011_400x400.jpg" width="40">
+<p>
