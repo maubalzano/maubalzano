@@ -37,8 +37,13 @@ Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative
 </div>
 <div align="center">
   <div>
-    <h4>Eye4Task</h4>
-    <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo_Eye4Task.png">
+    <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo_Eye4Task.png" width="100">
+  </div>
+    <div>
+    <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo GoSign.png" width="100">
+  </div>
+  <div>
+    <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo Meeting Book.pngg" width="100">
   </div>
 </div>
 <!--
