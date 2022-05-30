@@ -38,7 +38,7 @@ Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative
 <div align="center">
   <div>
     <h4>Eye4Task</h4>
-    <img src="">
+    <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo_Eye4Task.png">
   </div>
 </div>
 <!--
