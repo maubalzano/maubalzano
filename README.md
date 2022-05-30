@@ -20,9 +20,9 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://eco-mind.eu/management-tools/"><h4><strong>Management Tools</strong></h4></a> ·
-  <a href="https://eco-mind.eu/innovation-factory/"><h4><strong>Innovation Factory</strong></h4></a> ·
-  <a href="https://eco-mind.eu/blog/"><h4><strong>Blog</strong></h4></a>
+  <a href="https://eco-mind.eu/management-tools/"><strong>Management Tools</strong></a> ·
+  <a href="https://eco-mind.eu/innovation-factory/"><strong>Innovation Factory</strong></a> ·
+  <a href="https://eco-mind.eu/blog/"><strong>Blog</strong></a>
 </p>
 <br/>
 <br/>
