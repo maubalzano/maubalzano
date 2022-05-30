@@ -32,13 +32,12 @@
 Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative per evolvere verso il modello “Anywhere Operations”. Incrociamo le loro esigenze con la ricerca e lo studio delle tecnologie più recenti, per innovare e renderle competitive sul mercato. Con le nostre applicazioni multipiattaforma abilitiamo processi automatizzati che facilitano la comunicazione, sia interna che esterna, e la collaborazione remota tra operatori sul campo ed esperti a distanza. Perché crediamo che solo favorendo l’interazione tra persone e tra persone e macchine lo sviluppo può diventare progresso.
 <hr>
 </p>
+
 <div align="center">
   <h2>I nostri prodotti</h2>
-</div>
-<div align="center">
   <table border="0">
  <tr>
-    <td align="center" border="0">
+    <td align="top" border="0">
       <br>
     <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo_Eye4Task.png" width="200">
     <p width="300" align="center">Eye4Task è il software di realtà aumentata per il supporto a distanza che permette a chi opera sul campo, anche in contesti critici, di svolgere attività complesse in sicurezza, guidati da esperti in remoto, in qualsiasi parte del mondo essi si trovino.</p>
