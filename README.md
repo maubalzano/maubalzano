@@ -1,12 +1,11 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo-light.svg">
-  
-  <source media="(prefers-color-scheme: light)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo.svg">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo-light.svg">
-</picture>
+
 <p align="center">
   <a href="https://eco-mind.eu/">
-      <img src="https://github.com/maubalzano/maubalzano/blob/main/Eco-Mind-default-Logo-light.svg" height="128">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo-light.svg" width="200">
+      <source media="(prefers-color-scheme: light)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo.svg" width="200">
+      <img src="https://github.com/maubalzano/maubalzano/blob/main/Eco-Mind-default-Logo-light.svg" width="200">
+    </picture>
   </a>
 
 </p>
