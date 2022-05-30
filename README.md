@@ -13,7 +13,6 @@
 <br>
 <p align="center">
   Progettazione e sviluppo di soluzioni business, mobile e cloud native, 
-  
 </p>
 <p align="center">
   e soluzioni di realtà aumentata e virtuale.
