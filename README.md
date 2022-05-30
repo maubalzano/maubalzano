@@ -68,9 +68,18 @@ Puoi creare processi di firma fluidi e sicuri tramite firma semplice, remota, gr
 <br>
 <h3>I nostri superpoteri</h3>
 <p align="center">
-  <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="40">
-  <img src="https://img.icons8.com/color/344/mysql-logo.png" width="40">
+  <img src="https://img.stackshare.io/service/995/K85ZWV2F.png" width="40">
+  <img src="https://img.stackshare.io/service/1025/logo-mysql-170x170.png" width="40">
   <img src="https://img.stackshare.io/service/1030/leaf-360x360.png" width="40">
   <img src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg" width="40">
   <img src="https://img.stackshare.io/service/1051/fab.os.logo.apache.200.15011_400x400.jpg" width="40">
+  <img src="https://img.stackshare.io/service/116/cZLxNFZS.jpg" width="40">
+  <img src="https://img.stackshare.io/service/1022/jqueryui_avatar_96.png" width="40">
+  <img src="https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png" width="40">
+  <img src="https://img.stackshare.io/service/1009/tuHsaI2U.png" width="40">
+  <img src="https://img.stackshare.io/service/1187/tomcat.png" width="40">
+  <img src="https://img.stackshare.io/service/1056/J5gFiHbG.png" width="40">
+  <img src="https://img.stackshare.io/service/1008/xcode.png" width="40">
+  <img src="https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg" width="40">
+  
 <p>
