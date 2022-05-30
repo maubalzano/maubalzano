@@ -38,12 +38,18 @@ Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative
 <div align="center">
   <span>
     <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo_Eye4Task.png" width="100">
+    <p align="center">Eye4Task è il software di realtà aumentata per il supporto a distanza che permette a chi opera sul campo, anche in contesti critici, di svolgere attività complesse in sicurezza, guidati da esperti in remoto, in qualsiasi parte del mondo essi si trovino.</p>
   </span>
     <span>
     <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo GoSign.png" width="100">
+      <p align="center">GoSign è una soluzione per la firma digitale usata da oltre un milione di persone in tutto il mondo per verificare e approvare documenti.
+Puoi creare processi di firma fluidi e sicuri tramite firma semplice, remota, grafometrica o con token/ smart card.</p>
   </span>
   <span>
     <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo Meeting Book.png" width="100">
+    <p align="center">
+    Meeting Book è l’App per la gestione delle riunioni dei consigli di amministrazione. Permette di organizzare i documenti aziendali in fascicoli digitali strutturati, distribuirli agli invitati garantendo sicurezza e riservatezza, coordinare le presentazioni durante la riunione.
+    </p>
   </span>
 </div>
 <!--
