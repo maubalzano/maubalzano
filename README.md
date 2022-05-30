@@ -36,15 +36,15 @@ Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative
   <h2>I nostri prodotti</h2>
 </div>
 <div align="center">
-  <div>
+  <span>
     <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo_Eye4Task.png" width="100">
-  </div>
-    <div>
+  </span>
+    <span>
     <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo GoSign.png" width="100">
-  </div>
-  <div>
-    <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo Meeting Book.pngg" width="100">
-  </div>
+  </span>
+  <span>
+    <img src="https://github.com/maubalzano/maubalzano/blob/main/Logo Meeting Book.png" width="100">
+  </span>
 </div>
 <!--
 **maubalzano/maubalzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
