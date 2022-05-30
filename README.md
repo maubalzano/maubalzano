@@ -1,14 +1,15 @@
-
+<br>
 <p align="center">
   <a href="https://eco-mind.eu/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo-light.svg" width="200">
-      <source media="(prefers-color-scheme: light)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo.svg" width="200">
-      <img src="https://github.com/maubalzano/maubalzano/blob/main/Eco-Mind-default-Logo-light.svg" width="200">
+      <source media="(prefers-color-scheme: dark)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo-light.svg" width="240">
+      <source media="(prefers-color-scheme: light)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo.svg" width="240">
+      <img src="https://github.com/maubalzano/maubalzano/blob/main/Eco-Mind-default-Logo-light.svg" width="240">
     </picture>
   </a>
 
 </p>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/company/eco-mind-ingegneria-informatica/"><img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width="30"></a>
   <a href="https://www.instagram.com/ecomindsoftware/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" width="30"></a>
