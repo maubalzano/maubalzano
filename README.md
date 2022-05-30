@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://eco-mind.eu/">
-      <img src="https://github.com/maubalzano/maubalzano/blob/main/Eco-Mind-default-Logo-light.svg" height="160">
+      <img src="https://github.com/maubalzano/maubalzano/blob/main/Eco-Mind-default-Logo-light.svg" height="16">
     <h3 align="center">Eco-Mind</h3>
   </a>
 </p>
