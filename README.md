@@ -35,6 +35,12 @@ Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative
 <div align="center">
   <h2>I nostri prodotti</h2>
 </div>
+<div align="center">
+  <div>
+    <h4>Eye4Task</h4>
+    <img src="">
+  </div>
+</div>
 <!--
 **maubalzano/maubalzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
