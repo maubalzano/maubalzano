@@ -30,12 +30,7 @@
   Siamo una software factory specializzata nella progettazione e sviluppo di soluzioni business, mobile e cloud native, e soluzioni di realtà aumentata e virtuale.
 
 Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative per evolvere verso il modello “Anywhere Operations”. Incrociamo le loro esigenze con la ricerca e lo studio delle tecnologie più recenti, per innovare e renderle competitive sul mercato. Con le nostre applicazioni multipiattaforma abilitiamo processi automatizzati che facilitano la comunicazione, sia interna che esterna, e la collaborazione remota tra operatori sul campo ed esperti a distanza. Perché crediamo che solo favorendo l’interazione tra persone e tra persone e macchine lo sviluppo può diventare progresso.
-
-Nel 2010 abbiamo realizzato la prima App in Italia per firmare digitalmente in mobilità, Libro Firma (oggi GoSign), e nel 2013 Meeting Book per l’organizzazione e la gestione digitale di meeting di direzione e riunioni. Nel 2016 abbiamo ceduto la proprietà intellettuale di entrambi i prodotti ad InfoCert S.p.A. mantenendo con la stessa il ruolo di partner tecnologico nell’ambito degli sviluppi, UX e UI design. Oggi GoSign e Meeting Book sono utilizzati su scala mondiale da grandi multinazionali per automatizzare processi approvativi e CdA.
-
-Dal 2019 Eco-Mind è socio di maggioranza di HeadApp, società che si occupa della realizzazione di piattaforme collaborative evolute, integrate con smart-glasses, per supportare gli operatori che lavorano in “contesti critici” con l’uso di tecnologie immersive quali realtà virtuale (VR) e aumentata (AR).
-
-Oggi Eco-Mind opera sul mercato attraverso due Business Unit: Smart Management Tools e Smart Innovation Factory.
+<hr>
 </p>
 <rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="494" fill="#151515" stroke-opacity="1"/>
 
