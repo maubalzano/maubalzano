@@ -30,11 +30,10 @@
 
 Accompagniamo come partner le imprese che vogliono adottare soluzioni innovative per evolvere verso il modello “Anywhere Operations”. Incrociamo le loro esigenze con la ricerca e lo studio delle tecnologie più recenti, per innovare e renderle competitive sul mercato. Con le nostre applicazioni multipiattaforma abilitiamo processi automatizzati che facilitano la comunicazione, sia interna che esterna, e la collaborazione remota tra operatori sul campo ed esperti a distanza. Perché crediamo che solo favorendo l’interazione tra persone e tra persone e macchine lo sviluppo può diventare progresso.
 <hr>
-  <img src="https://github.com/maubalzano/maubalzano/blob/main/ecomind-leaf.svg">
-<br>
 </p>
 <div align="center">
-  <h2 border="0"><strong>I nostri prodotti</strong></h2>
+  <img src="https://github.com/maubalzano/maubalzano/blob/main/ecomind-leaf.svg" width="60">
+  <h1 border="0"><strong>I nostri prodotti</strong></h1>
   <table border="0">
  <tr>
     <td align="center" border="0">
@@ -68,7 +67,9 @@ Puoi creare processi di firma fluidi e sicuri tramite firma semplice, remota, gr
 </div>
 <hr>
 <br>
-<h2 align="center">I nostri superpoteri</h2>
+<div align="center">
+<img src="https://github.com/maubalzano/maubalzano/blob/main/ecomind-leaf.svg" width="60">
+<h1 align="center">I nostri superpoteri</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/angular%20-%2343853D.svg?&style=for-the-badge&logo=angular&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white" height="30"/>
@@ -91,5 +92,6 @@ Puoi creare processi di firma fluidi e sicuri tramite firma semplice, remota, gr
   <img src="https://img.shields.io/badge/npm%20-%2343853D.svg?&style=for-the-badge&logo=npm&logoColor=white" height="30"/>
   
 <p>
+</div>
 <br>
 
