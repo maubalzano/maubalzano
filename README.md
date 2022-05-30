@@ -1,12 +1,14 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo-light.svg">
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo-light.svg">
+</picture>
 <p align="center">
   <a href="https://eco-mind.eu/">
       <img src="https://github.com/maubalzano/maubalzano/blob/main/Eco-Mind-default-Logo-light.svg" height="128">
   </a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://eco-mind.eu/wp-content/uploads/2021/06/Eco-Mind-default-Logo-light.svg">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="">
-</picture>
+
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/company/eco-mind-ingegneria-informatica/"><img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width="30"></a>
